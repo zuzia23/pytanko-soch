@@ -1,0 +1,2 @@
+# pytanko-soch
+Strona walentynkowa 
